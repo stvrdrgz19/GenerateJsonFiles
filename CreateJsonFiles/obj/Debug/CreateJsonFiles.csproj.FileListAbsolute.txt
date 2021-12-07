@@ -1,0 +1,9 @@
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\obj\Debug\CreateJsonFiles.csproj.AssemblyReference.cache
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\obj\Debug\CreateJsonFiles.csproj.CoreCompileInputs.cache
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\bin\Debug\CreateJsonFiles.exe.config
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\bin\Debug\CreateJsonFiles.exe
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\bin\Debug\CreateJsonFiles.pdb
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\obj\Debug\CreateJsonFiles.exe
+C:\Users\steve.rodriguez\source\repos\CreateJsonFiles\CreateJsonFiles\obj\Debug\CreateJsonFiles.pdb
